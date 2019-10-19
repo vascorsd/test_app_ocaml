@@ -11,7 +11,7 @@ Prepare environment. opam is the thing to manage multiple ocaml
 versions installed. We want one working with tools.
 
     opam init
-freebroccolo.reasonml
+
 And follow instructions.
 
 Don't use the ocaml-system switch by default and actually use a explicit
