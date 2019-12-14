@@ -1,7 +1,5 @@
 open Lib
 
-let some_list = 1 :: 2 :: 3 :: []
-
 let () = 
   print_endline ("Hello, World! " ^ string_of_int magic_number);
   print_newline ();
