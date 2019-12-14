@@ -7,3 +7,5 @@ let some_list = 1 :: 2 :: 3 :: []
 let empty_list = []
 
 let other_list = [1; 2; 3;]
+
+let tuple = (1, 2)
